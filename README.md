@@ -8,4 +8,4 @@ A learning tool for all those interesting in learning the Sanskrit language.
 - Sidhika Tripathee
 - Anya Chaudhri 
 
-**DS@Swarthmore, McCabe Library**
+:books: **DS@Swarthmore, McCabe Library** :books:
